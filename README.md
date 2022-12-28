@@ -2,6 +2,9 @@
 
 ## User and Group Administration 
 
-<p align = "center">
-<img src = "https://github.com/Ttokkime/Lab-2/blob/439648fd216411c651c7f8b93319827016534dc8/Lab%202%20topology.png">
+<p align = "left">
+<img src = "https://github.com/Ttokkime/Lab-3/blob/main/Command%20Prompts%20to%20restrict%20ENGfiles%20and%20MKTfiles.png">
+</p>
+<p align = "right">
+<img src = "https://github.com/Ttokkime/Lab-3/blob/main/Command%20Prompts%20to%20restrict%20ENGfiles%20and%20MKTfiles2.png">
 </p>
